@@ -9,3 +9,6 @@ na188318@ohio.edu
 
 #Answers Recorded At:
 answers.md
+
+#Class Information
+CS 2400, Section 104
